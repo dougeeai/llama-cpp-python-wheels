@@ -33,3 +33,19 @@ Built with:
 MIT
 
 Wheels are built from [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) (MIT License)
+
+
+## Contributing
+
+**Need a different configuration?**
+Open an [issue](https://github.com/DougRahden/llama-cpp-python-wheels/issues) with:
+- OS (Windows/Linux/macOS)
+- Python version
+- CUDA version (if applicable)
+- GPU model
+
+I'll try to build it if I have access to similar hardware.
+
+## Contact
+
+Questions or issues? Open a [GitHub issue](https://github.com/DougRahden/llama-cpp-python-wheels/issues).
