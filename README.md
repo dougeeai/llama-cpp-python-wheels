@@ -6,7 +6,7 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 | File | OS | Python | CUDA | Driver | GPU Support | Size |
 |------|-----|--------|------|--------|-------------|------|
-| [llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp313-cp313-win_amd64.whl](../../releases) | Windows 10/11 | 3.13 | 13.0 | 580+ | RTX 30 series (Ampere, sm_86) | 61.4 MB |
+| [llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp313-cp313-win_amd64.whl](https://github.com/DougRahden/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-py313/llama_cpp_python-0.3.16%2Bcuda13.0.sm86.ampere-cp313-cp313-win_amd64.whl) | Windows 10/11 | 3.13 | 13.0 | 580+ | RTX 30 series (Ampere, sm_86) | 61.4 MB |
 
 ## Installation
 
