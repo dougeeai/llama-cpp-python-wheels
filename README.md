@@ -8,7 +8,7 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 | File | llama_cpp | OS | Python | CUDA | Driver | Size |
 |------|-----------|-----|--------|------|--------|------|
-| [llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm100-sm120/llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10–3.13 | 13.0 | 580+ | 184.3 MB |
+| [llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm100-sm120/llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10<br>3.11<br>3.12<br>3.13 | 13.0 | 580+ | 184.3 MB |
 
 ### Datacenter Blackwell (sm_100)
 **Supported GPUs:** B100, B200, B300 (Blackwell Ultra), GB200, GB300
@@ -17,7 +17,7 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 | File | llama_cpp | OS | Python | CUDA | Driver | Size |
 |------|-----------|-----|--------|------|--------|------|
-| [llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm100-sm120/llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10–3.13 | 13.0 | 580+ | 184.3 MB |
+| [llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm100-sm120/llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10<br>3.11<br>3.12<br>3.13 | 13.0 | 580+ | 184.3 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp313-cp313-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm100-py313/llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp313-cp313-win_amd64.whl) | 0.3.16 | Windows | 3.13 | 13.0 | 580+ | 65.9 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp312-cp312-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm100-py312/llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp312-cp312-win_amd64.whl) | 0.3.16 | Windows | 3.12 | 13.0 | 580+ | 65.9 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp311-cp311-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm100-py311/llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp311-cp311-win_amd64.whl) | 0.3.16 | Windows | 3.11 | 13.0 | 580+ | 65.9 MB |
@@ -29,7 +29,7 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 | File | llama_cpp | OS | Python | CUDA | Driver | Size |
 |------|-----------|-----|--------|------|--------|------|
-| [llama_cpp_python-0.3.20+cuda13.0.sm89.ada-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm89/llama_cpp_python-0.3.20+cuda13.0.sm89.ada-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10–3.13 | 13.0 | 580+ | 91.8 MB |
+| [llama_cpp_python-0.3.20+cuda13.0.sm89.ada-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm89/llama_cpp_python-0.3.20+cuda13.0.sm89.ada-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10<br>3.11<br>3.12<br>3.13 | 13.0 | 580+ | 91.8 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm89.ada-cp313-cp313-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm89-py313/llama_cpp_python-0.3.16+cuda13.0.sm89.ada-cp313-cp313-win_amd64.whl) | 0.3.16 | Windows | 3.13 | 13.0 | 580+ | 61.4 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm89.ada-cp312-cp312-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm89-py312/llama_cpp_python-0.3.16+cuda13.0.sm89.ada-cp312-cp312-win_amd64.whl) | 0.3.16 | Windows | 3.12 | 13.0 | 580+ | 61.4 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm89.ada-cp311-cp311-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm89-py311/llama_cpp_python-0.3.16+cuda13.0.sm89.ada-cp311-cp311-win_amd64.whl) | 0.3.16 | Windows | 3.11 | 13.0 | 580+ | 61.4 MB |
@@ -48,15 +48,13 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 | File | llama_cpp | OS | Python | CUDA | Driver | Size |
 |------|-----------|-----|--------|------|--------|------|
-| [llama_cpp_python-0.3.20+cuda13.0.sm86.ampere-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm86/llama_cpp_python-0.3.20+cuda13.0.sm86.ampere-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10–3.13 | 13.0 | 580+ | 91.9 MB |
+| [llama_cpp_python-0.3.20+cuda13.0.sm86.ampere-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm86/llama_cpp_python-0.3.20+cuda13.0.sm86.ampere-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10<br>3.11<br>3.12<br>3.13 | 13.0 | 580+ | 91.9 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp313-cp313-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-py313/llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp313-cp313-win_amd64.whl) | 0.3.16 | Windows | 3.13 | 13.0 | 580+ | 61.4 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp312-cp312-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm86-py312/llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp312-cp312-win_amd64.whl) | 0.3.16 | Windows | 3.12 | 13.0 | 580+ | 61.4 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp311-cp311-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm86-py311/llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp311-cp311-win_amd64.whl) | 0.3.16 | Windows | 3.11 | 13.0 | 580+ | 61.4 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp310-cp310-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm86-py310/llama_cpp_python-0.3.16+cuda13.0.sm86.ampere-cp310-cp310-win_amd64.whl) | 0.3.16 | Windows | 3.10 | 13.0 | 580+ | 61.4 MB |
+| [llama_cpp_python-0.3.20+cuda12.1.sm86.ampere-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda12.1-sm86/llama_cpp_python-0.3.20+cuda12.1.sm86.ampere-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10<br>3.11<br>3.12<br>3.13 | 12.1 | 525.60.13+ | 89.4 MB |
 | [llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp313-cp313-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda12.1-sm86-py313/llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp313-cp313-win_amd64.whl) | 0.3.16 | Windows | 3.13 | 12.1 | 525.60.13+ | 92.2 MB |
-| [llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp312-cp312-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda12.1-sm86-py312/llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp312-cp312-win_amd64.whl) | 0.3.16 | Windows | 3.12 | 12.1 | 525.60.13+ | 61.4 MB |
-| [llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp311-cp311-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda12.1-sm86-py311/llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp311-cp311-win_amd64.whl) | 0.3.16 | Windows | 3.11 | 12.1 | 525.60.13+ | 61.4 MB |
-| [llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp310-cp310-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda12.1-sm86-py310/llama_cpp_python-0.3.16+cuda12.1.sm86.ampere-cp310-cp310-win_amd64.whl) | 0.3.16 | Windows | 3.10 | 12.1 | 525.60.13+ | 61.4 MB |
 | [llama_cpp_python-0.3.16+cuda11.8.sm86.ampere-cp313-cp313-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda11.8-sm86-py313/llama_cpp_python-0.3.16+cuda11.8.sm86.ampere-cp313-cp313-win_amd64.whl) | 0.3.16 | Windows | 3.13 | 11.8 | 450.80.02+ | 100.6 MB |
 | [llama_cpp_python-0.3.16+cuda11.8.sm86.ampere-cp312-cp312-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda11.8-sm86-py312/llama_cpp_python-0.3.16+cuda11.8.sm86.ampere-cp312-cp312-win_amd64.whl) | 0.3.16 | Windows | 3.12 | 11.8 | 450.80.02+ | 100.6 MB |
 | [llama_cpp_python-0.3.16+cuda11.8.sm86.ampere-cp311-cp311-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda11.8-sm86-py311/llama_cpp_python-0.3.16+cuda11.8.sm86.ampere-cp311-cp311-win_amd64.whl) | 0.3.16 | Windows | 3.11 | 11.8 | 450.80.02+ | 100.6 MB |
@@ -67,7 +65,7 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 | File | llama_cpp | OS | Python | CUDA | Driver | Size |
 |------|-----------|-----|--------|------|--------|------|
-| [llama_cpp_python-0.3.20+cuda13.0.sm75.turing-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm75/llama_cpp_python-0.3.20+cuda13.0.sm75.turing-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10–3.13 | 13.0 | 580+ | 97.7 MB |
+| [llama_cpp_python-0.3.20+cuda13.0.sm75.turing-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm75/llama_cpp_python-0.3.20+cuda13.0.sm75.turing-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10<br>3.11<br>3.12<br>3.13 | 13.0 | 580+ | 97.7 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm75.turing-cp313-cp313-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm75-py313/llama_cpp_python-0.3.16+cuda13.0.sm75.turing-cp313-cp313-win_amd64.whl) | 0.3.16 | Windows | 3.13 | 13.0 | 580+ | 63.1 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm75.turing-cp312-cp312-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm75-py312/llama_cpp_python-0.3.16+cuda13.0.sm75.turing-cp312-cp312-win_amd64.whl) | 0.3.16 | Windows | 3.12 | 13.0 | 580+ | 63.1 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm75.turing-cp311-cp311-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm75-py311/llama_cpp_python-0.3.16+cuda13.0.sm75.turing-cp311-cp311-win_amd64.whl) | 0.3.16 | Windows | 3.11 | 13.0 | 580+ | 63.1 MB |
