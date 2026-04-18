@@ -3,6 +3,13 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 
 ## Available Wheels
 
+### Consumer & Workstation Blackwell (sm_120)
+**Supported GPUs:** RTX 5090, 5080, 5070 Ti, 5070, 5060 Ti, 5060, 5050, RTX 5090 Laptop, RTX 5080 Laptop, RTX 5070 Ti Laptop, RTX 5070 Laptop, RTX 5060 Laptop, RTX 5050 Laptop, RTX PRO 6000 Blackwell Workstation Edition, RTX PRO 6000 Blackwell Max-Q, RTX PRO 6000 Blackwell Server Edition, RTX PRO 5000 Blackwell, RTX PRO 4500 Blackwell, RTX PRO 4000 Blackwell, RTX PRO 4000 SFF Blackwell, RTX PRO 2000 Blackwell, RTX PRO 5000 Blackwell Laptop, RTX PRO 4000 Blackwell Laptop, RTX PRO 3000 Blackwell Laptop, RTX PRO 2000 Blackwell Laptop, RTX PRO 1000 Blackwell Laptop, RTX PRO 500 Blackwell Laptop
+
+| File | llama_cpp | OS | Python | CUDA | Driver | Size |
+|------|-----------|-----|--------|------|--------|------|
+| [llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm100-sm120/llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10–3.13 | 13.0 | 580+ | 184.3 MB |
+
 ### Datacenter Blackwell (sm_100)
 **Supported GPUs:** B100, B200, B300 (Blackwell Ultra), GB200, GB300
 
@@ -16,12 +23,6 @@ Pre-built wheels for llama-cpp-python across platforms and CUDA versions.
 | [llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp311-cp311-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm100-py311/llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp311-cp311-win_amd64.whl) | 0.3.16 | Windows | 3.11 | 13.0 | 580+ | 65.9 MB |
 | [llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp310-cp310-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.16-cuda13.0-sm100-py310/llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp310-cp310-win_amd64.whl) | 0.3.16 | Windows | 3.10 | 13.0 | 580+ | 65.9 MB |
 
-### Consumer & Workstation Blackwell (sm_120)
-**Supported GPUs:** RTX 5090, 5080, 5070 Ti, 5070, 5060 Ti, 5060, 5050, RTX 5090 Laptop, RTX 5080 Laptop, RTX 5070 Ti Laptop, RTX 5070 Laptop, RTX 5060 Laptop, RTX 5050 Laptop, RTX PRO 6000 Blackwell Workstation Edition, RTX PRO 6000 Blackwell Max-Q, RTX PRO 6000 Blackwell Server Edition, RTX PRO 5000 Blackwell, RTX PRO 4500 Blackwell, RTX PRO 4000 Blackwell, RTX PRO 4000 SFF Blackwell, RTX PRO 2000 Blackwell, RTX PRO 5000 Blackwell Laptop, RTX PRO 4000 Blackwell Laptop, RTX PRO 3000 Blackwell Laptop, RTX PRO 2000 Blackwell Laptop, RTX PRO 1000 Blackwell Laptop, RTX PRO 500 Blackwell Laptop
-
-| File | llama_cpp | OS | Python | CUDA | Driver | Size |
-|------|-----------|-----|--------|------|--------|------|
-| [llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl](https://github.com/dougeeai/llama-cpp-python-wheels/releases/download/v0.3.20-cuda13.0-sm100-sm120/llama_cpp_python-0.3.20+cuda13.0.sm100.sm120.blackwell-py3-none-win_amd64.whl) | 0.3.20 | Windows | 3.10–3.13 | 13.0 | 580+ | 184.3 MB |
 
 ### RTX 40 Series & Ada Professional (Ada Lovelace - sm_89)
 **Supported GPUs:** RTX 4060, RTX 4060 Ti, RTX 4070, RTX 4070 Ti, RTX 4070 Ti Super, RTX 4080, RTX 4080 Super, RTX 4090, RTX 6000 Ada, RTX 5000 Ada, RTX 4500 Ada, RTX 4000 Ada, RTX 4000 SFF Ada, L40, L40S, L4
